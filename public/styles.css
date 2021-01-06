@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400;700&display=swap');
+
+:root{
+    --primary-color: #7159c1;
+    --secondary-color: #F7DF1E;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+body{
+    background-image: url("/assets/fundo.jpeg");
+    font-family: 'Roboto', sans-serif;
+}
+
+.foto{
+    text-align: center;
+}
+
+.foto img{
+    text-align: center;
+}
